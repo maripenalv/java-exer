@@ -1,1 +1,1 @@
-# java-exer
+Esse repositório conta com exercícios realizados durante o curso "Java COMPLETO" ministrado pelo professor Nelio Alves
